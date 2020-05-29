@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: " "
+excerpt: "Welcome to my page!"
 author_profile: true
 redirect_from: 
   - "/wordpress/"
@@ -10,4 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-Hello!
+Hello, I am Len Li , an undergraduate student in Dalian University of Technology.
+I am major in mathematics . My research interest is computer vision.
+
+
+
