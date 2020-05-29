@@ -26,7 +26,7 @@ I am interested in Computer Vision, Machine Learning and Robotics.
 
 <img src = "../images/fgvc.png" align = "left" width = "400" height = "200">          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CVPR 2020 herbarium FGVC challenge  
-56411
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fine-grained recognition 10/153
 
 
@@ -40,7 +40,7 @@ detail
 
 <img src = "../images/openvino.png" align = "left" width = "400" height = "200">          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-openvino +   
+openvino + robomaster
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 robomaster
