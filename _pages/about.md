@@ -27,9 +27,7 @@ I am interested in Computer Vision and Robot Learning.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rank:10/153 &nbsp;  [*Tech. detail*](https://www.kaggle.com/c/herbarium-2020-fgvc7/discussion/155000)
 <br>
 <br>
-<br>  
-<br>  
-<br>  
+<br>
 
 
 <img src = "../images/cvpr2020.png" align = "left" width = "340" height = "170"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CVPR 2020 AliProducts Challenge:](https://tianchi.aliyun.com/competition/entrance/231780/introduction)  
@@ -37,18 +35,16 @@ I am interested in Computer Vision and Robot Learning.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rank:27/688 &nbsp;  [*Tech. detail*](https://www.kaggle.com/c/herbarium-2020-fgvc7/discussion/155000)
 <br>
 <br>
-<br>  
-<br>  
-<br>  
+<br>
+
 
 <img src = "../images/autoaim.gif" align = "left" width = "340" height = "170"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;openvino + robomaster auto aim  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Tech. detail*](https://github.com/Len-Li/openvino-robomaster)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Slide*](https://github.com/Len-Li/openvino-robomaster)
 <br>
 <br>
-<br>  
-<br>  
-<br>  
+<br>
+
 
 
 <img src = "../images/pra.png" align = "left" width = "340" height = "300"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Priority Research Application   
