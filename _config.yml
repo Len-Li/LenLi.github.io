@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leheng Li"
+title                    : "Leheng Li's homepage "
 title_separator          : "-"
 name                     : &name "Leheng Li's website"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Leheng Li"
-  avatar           : "profile.png"
+  avatar           : "true_profile.png"
   bio              : "working on machine intelligence"
   employer         :
   googlescholar    :
